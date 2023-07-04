@@ -15,9 +15,7 @@ class ChangeNameCard extends StatelessWidget {
     return Column(
       children: [
         Image.asset(
-          "assets/images/bg.jpg",
-        
-        ),
+          "assets/images/bg.jpg",),
         SizedBox(height: 20),
         Text(
           myText,
